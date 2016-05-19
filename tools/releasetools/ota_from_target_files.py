@@ -638,12 +638,12 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
     system_progress -= 0.1
 
   script.Print("*********************************************");
-  script.Print("*       _   _                        	    *");
+  script.Print("*       _   _                        	      *");
   script.Print("*      | | | |      _   _      _    _       *");
   script.Print("*      | |_| | ___ | | | |_ __\ \  / /      *");
-  script.Print("*      |  _  |/ _ \| __| __| | \ \/ /	    *");
-  script.Print("*      | | | | (_) | | | | | | |\  /	    *");
-  script.Print("*      |_| |_|\___/|_| |_| |_|_|/  \         *");
+  script.Print("*      |  _  |/ _ \| __| __| | \ \/ /	      *");
+  script.Print("*      | | | | (_) | | | | | | |\  /	       *");
+  script.Print("*      |_| |_|\___/|_| |_| |_|_|/  \          *");
   script.Print("*                              /_/\_\       *");
   script.Print("*               ______                      *");
   script.Print("*              /   ___|                     *");
@@ -651,7 +651,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print("*             |  |   | '_ ` _ \             *");
   script.Print("*             |  \___| | | | | |            *");
   script.Print("*              \_______| |_| |_|            *");
-  script.Print("*                                            *");
+  script.Print("*                                           *");
   script.Print("*                                           *");
   script.Print("*********************************************");
 
